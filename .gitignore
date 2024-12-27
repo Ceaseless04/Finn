@@ -1,0 +1,5 @@
+# .env files
+.env
+
+# data for model
+/server/ml-model/data
