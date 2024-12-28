@@ -26,7 +26,6 @@ Finn/
 │
 ├── ml-model/
 │   ├── data/
-│   ├── notebooks/
 │   ├── train.py
 │   └── predict.py
 │
