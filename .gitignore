@@ -1,8 +1,5 @@
 # .env files
 .env
 
-# data for model
-/server/ml-model/data
-
-# virtual environment
-/server/.venv/
+# virtual environments
+server/venv/
