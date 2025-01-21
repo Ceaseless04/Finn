@@ -1,5 +1,5 @@
 class User:
-    def __init__(self, db) -> None:
+    def __init__(self, db):
         self.collection = db["users"]
 
     def create_user(self, user_data):
