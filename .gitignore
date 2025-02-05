@@ -1,5 +1,2 @@
 # .env files
 .env
-
-# virtual environments
-server/venv/
